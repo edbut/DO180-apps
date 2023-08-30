@@ -1,3 +1,3 @@
 <?php
-print "Taip jau Taip "\n";
+print "Taip jau Taip \n";
 ?>
